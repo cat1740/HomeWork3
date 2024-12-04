@@ -7,7 +7,7 @@
 
 
 
-class Cart
+class Cartsdfg sdg
 
     products = []
     products.append(monitor)
