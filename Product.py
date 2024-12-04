@@ -10,5 +10,3 @@ class Product:
 
     def __str__(self):
         return "name: " + str(self.name) + ", price: " + str(self.price) + ", availability: " + str(self.availability)
-
-
